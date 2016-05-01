@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/SujiNivedita/FeedbackApp#readme",
   "devDependencies": {
+    "angular": "^1.5.5",
     "body-parser": "^1.15.0",
     "error-handler": "^1.0.0",
     "express-error-handler": "^1.1.0",
