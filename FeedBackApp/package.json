@@ -1,0 +1,30 @@
+{
+  "name": "feedbackapp",
+  "version": "1.0.0",
+  "description": "First cut -feedback app",
+  "main": "index.html",
+  "scripts": {
+    "test": "give feedback"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SujiNivedita/FeedbackApp.git"
+  },
+  "keywords": [
+    "feedback"
+  ],
+  "author": "suji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SujiNivedita/FeedbackApp/issues"
+  },
+  "homepage": "https://github.com/SujiNivedita/FeedbackApp#readme",
+  "devDependencies": {
+    "body-parser": "^1.15.0",
+    "error-handler": "^1.0.0",
+    "express-error-handler": "^1.1.0",
+    "jade": "^1.11.0",
+    "method-override": "^2.3.5",
+    "morgan": "^1.7.0"
+  }
+}
